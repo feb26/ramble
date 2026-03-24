@@ -1,0 +1,3 @@
+mlx-whisper>=0.4
+sounddevice
+numpy
